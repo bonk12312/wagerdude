@@ -34,7 +34,7 @@ export const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://x.com/wageringssol"
+              href="https://x.com/wager_sol"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
